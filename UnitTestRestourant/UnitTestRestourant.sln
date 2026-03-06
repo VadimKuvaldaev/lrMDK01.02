@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestRestourant", "UnitTestRestourant\UnitTestRestourant.csproj", "{E1460D59-092A-4522-A900-FF006B56049C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restourant", "Restourant\Restourant.csproj", "{C9D4EEB8-F3DA-44D2-9CD6-1C9C5A9A867A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1460D59-092A-4522-A900-FF006B56049C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1460D59-092A-4522-A900-FF006B56049C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1460D59-092A-4522-A900-FF006B56049C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1460D59-092A-4522-A900-FF006B56049C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9D4EEB8-F3DA-44D2-9CD6-1C9C5A9A867A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9D4EEB8-F3DA-44D2-9CD6-1C9C5A9A867A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9D4EEB8-F3DA-44D2-9CD6-1C9C5A9A867A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9D4EEB8-F3DA-44D2-9CD6-1C9C5A9A867A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7687DC1D-2CF3-4519-A795-95392A0AA21A}
+	EndGlobalSection
+EndGlobal
