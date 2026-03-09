@@ -1,0 +1,12 @@
+D:\П-30\kuvaldaev01.02\LR3\DrugLib\bin\Debug\DrugLib.dll
+D:\П-30\kuvaldaev01.02\LR3\DrugLib\bin\Debug\DrugLib.pdb
+D:\П-30\kuvaldaev01.02\LR3\DrugLib\obj\Debug\DrugLib.csproj.AssemblyReference.cache
+D:\П-30\kuvaldaev01.02\LR3\DrugLib\obj\Debug\DrugLib.csproj.CoreCompileInputs.cache
+D:\П-30\kuvaldaev01.02\LR3\DrugLib\obj\Debug\DrugLib.dll
+D:\П-30\kuvaldaev01.02\LR3\DrugLib\obj\Debug\DrugLib.pdb
+C:\Users\Вадим\мдк01.02\LR3\DrugLib\obj\Debug\DrugLib.csproj.AssemblyReference.cache
+C:\Users\Вадим\мдк01.02\LR3\DrugLib\obj\Debug\DrugLib.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\мдк01.02\LR3\DrugLib\obj\Debug\DrugLib.dll
+C:\Users\Вадим\мдк01.02\LR3\DrugLib\obj\Debug\DrugLib.pdb
+C:\Users\Вадим\мдк01.02\LR3\DrugLib\bin\Debug\DrugLib.dll
+C:\Users\Вадим\мдк01.02\LR3\DrugLib\bin\Debug\DrugLib.pdb

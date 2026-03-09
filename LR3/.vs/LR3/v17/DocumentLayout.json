@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\\u043C\u0434\u043A01.02\\LR3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25BE7BBE-FA4D-4253-9A0E-A2806B67AD6F}|DrugLib\\DrugLib.csproj|c:\\users\\\u0432\u0430\u0434\u0438\u043C\\\u043C\u0434\u043A01.02\\lr3\\druglib\\model\\csvdrugsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BE7BBE-FA4D-4253-9A0E-A2806B67AD6F}|DrugLib\\DrugLib.csproj|solutionrelative:druglib\\model\\csvdrugsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BE7BBE-FA4D-4253-9A0E-A2806B67AD6F}|DrugLib\\DrugLib.csproj|C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\\u043C\u0434\u043A01.02\\LR3\\druglib\\model\\idrugsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BE7BBE-FA4D-4253-9A0E-A2806B67AD6F}|DrugLib\\DrugLib.csproj|solutionrelative:druglib\\model\\idrugsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BE7BBE-FA4D-4253-9A0E-A2806B67AD6F}|DrugLib\\DrugLib.csproj|C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\\u043C\u0434\u043A01.02\\LR3\\druglib\\model\\iloaddrugs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BE7BBE-FA4D-4253-9A0E-A2806B67AD6F}|DrugLib\\DrugLib.csproj|solutionrelative:druglib\\model\\iloaddrugs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BE7BBE-FA4D-4253-9A0E-A2806B67AD6F}|DrugLib\\DrugLib.csproj|C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\\u043C\u0434\u043A01.02\\LR3\\druglib\\view\\idrugsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BE7BBE-FA4D-4253-9A0E-A2806B67AD6F}|DrugLib\\DrugLib.csproj|solutionrelative:druglib\\view\\idrugsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BE7BBE-FA4D-4253-9A0E-A2806B67AD6F}|DrugLib\\DrugLib.csproj|C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\\u043C\u0434\u043A01.02\\LR3\\druglib\\presenter\\drugspresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BE7BBE-FA4D-4253-9A0E-A2806B67AD6F}|DrugLib\\DrugLib.csproj|solutionrelative:druglib\\presenter\\drugspresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BE7BBE-FA4D-4253-9A0E-A2806B67AD6F}|DrugLib\\DrugLib.csproj|C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\\u043C\u0434\u043A01.02\\LR3\\druglib\\model\\filedrugstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BE7BBE-FA4D-4253-9A0E-A2806B67AD6F}|DrugLib\\DrugLib.csproj|solutionrelative:druglib\\model\\filedrugstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F350D5-98FA-4322-81F1-111CEA1BF1B0}|LR3\\LR3.csproj|C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\\u043C\u0434\u043A01.02\\LR3\\lr3\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4F350D5-98FA-4322-81F1-111CEA1BF1B0}|LR3\\LR3.csproj|solutionrelative:lr3\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F350D5-98FA-4322-81F1-111CEA1BF1B0}|LR3\\LR3.csproj|C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\\u043C\u0434\u043A01.02\\LR3\\lr3\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B4F350D5-98FA-4322-81F1-111CEA1BF1B0}|LR3\\LR3.csproj|solutionrelative:lr3\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9084B9FF-8B89-4F66-BA05-14E00B94FB83}|UnitTestDrugs\\UnitTestDrugs.csproj|C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\\u043C\u0434\u043A01.02\\LR3\\unittestdrugs\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9084B9FF-8B89-4F66-BA05-14E00B94FB83}|UnitTestDrugs\\UnitTestDrugs.csproj|solutionrelative:unittestdrugs\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DrugsPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\\u043C\u0434\u043A01.02\\LR3\\DrugLib\\Presenter\\DrugsPresenter.cs",
+              "RelativeDocumentMoniker": "DrugLib\\Presenter\\DrugsPresenter.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\\u043C\u0434\u043A01.02\\LR3\\DrugLib\\Presenter\\DrugsPresenter.cs",
+              "RelativeToolTip": "DrugLib\\Presenter\\DrugsPresenter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T11:39:13.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILoadDrugs.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\\u043C\u0434\u043A01.02\\LR3\\DrugLib\\Model\\ILoadDrugs.cs",
+              "RelativeDocumentMoniker": "DrugLib\\Model\\ILoadDrugs.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\\u043C\u0434\u043A01.02\\LR3\\DrugLib\\Model\\ILoadDrugs.cs",
+              "RelativeToolTip": "DrugLib\\Model\\ILoadDrugs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T11:38:20.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileDrugStorage.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\\u043C\u0434\u043A01.02\\LR3\\DrugLib\\Model\\FileDrugStorage.cs",
+              "RelativeDocumentMoniker": "DrugLib\\Model\\FileDrugStorage.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\\u043C\u0434\u043A01.02\\LR3\\DrugLib\\Model\\FileDrugStorage.cs",
+              "RelativeToolTip": "DrugLib\\Model\\FileDrugStorage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T11:36:19.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDrugsView.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\\u043C\u0434\u043A01.02\\LR3\\DrugLib\\View\\IDrugsView.cs",
+              "RelativeDocumentMoniker": "DrugLib\\View\\IDrugsView.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\\u043C\u0434\u043A01.02\\LR3\\DrugLib\\View\\IDrugsView.cs",
+              "RelativeToolTip": "DrugLib\\View\\IDrugsView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T11:32:37.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CsvDrugsModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\\u043C\u0434\u043A01.02\\LR3\\DrugLib\\Model\\CsvDrugsModel.cs",
+              "RelativeDocumentMoniker": "DrugLib\\Model\\CsvDrugsModel.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\\u043C\u0434\u043A01.02\\LR3\\DrugLib\\Model\\CsvDrugsModel.cs",
+              "RelativeToolTip": "DrugLib\\Model\\CsvDrugsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T11:30:09.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDrugsModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\\u043C\u0434\u043A01.02\\LR3\\DrugLib\\Model\\IDrugsModel.cs",
+              "RelativeDocumentMoniker": "DrugLib\\Model\\IDrugsModel.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\\u043C\u0434\u043A01.02\\LR3\\DrugLib\\Model\\IDrugsModel.cs",
+              "RelativeToolTip": "DrugLib\\Model\\IDrugsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T11:27:32.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\\u043C\u0434\u043A01.02\\LR3\\LR3\\MainForm.cs",
+              "RelativeDocumentMoniker": "LR3\\MainForm.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\\u043C\u0434\u043A01.02\\LR3\\LR3\\MainForm.cs",
+              "RelativeToolTip": "LR3\\MainForm.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T07:07:04.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\\u043C\u0434\u043A01.02\\LR3\\LR3\\MainForm.cs",
+              "RelativeDocumentMoniker": "LR3\\MainForm.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\\u043C\u0434\u043A01.02\\LR3\\LR3\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "LR3\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T07:07:01.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\\u043C\u0434\u043A01.02\\LR3\\UnitTestDrugs\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTestDrugs\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\\u043C\u0434\u043A01.02\\LR3\\UnitTestDrugs\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTestDrugs\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T06:54:11.369Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
